@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		45D8B83D2EAE0E5500F17DCC /* sliversky.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 45D8B83C2EAE0E5500F17DCC /* sliversky.mp4 */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		4578BE222EA8EE7D00F09A60 /* Ultimate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ultimate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		45D8B83C2EAE0E5500F17DCC /* sliversky.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = sliversky.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +39,7 @@
 			children = (
 				4578BE242EA8EE7D00F09A60 /* Ultimate */,
 				4578BE232EA8EE7D00F09A60 /* Products */,
+				45D8B83C2EAE0E5500F17DCC /* sliversky.mp4 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45D8B83D2EAE0E5500F17DCC /* sliversky.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
